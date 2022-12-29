@@ -1,5 +1,6 @@
 
 # philosophers :spaghetti:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 **Codam [42 Network] project**: an introduction to  **multithreading**  by solving the dining philosophers problem.
 
@@ -32,6 +33,11 @@ Any state change of a philosopher must be formatted as follows in which **timest
 
 A displayed state message should not be mixed up with another message. A message announcing a philosopher died should be displayed no more than 10 ms after the actual death of the philosopher.
 
+
+__Skills__
+- Imperative programming
+- Unix
+- Rigor
 
 __Subject__
 
